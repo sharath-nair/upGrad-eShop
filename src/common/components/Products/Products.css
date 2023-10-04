@@ -1,0 +1,8 @@
+.MuiCard-root {
+    display: flex;
+    flex-direction: column;
+}
+
+.MuiCardActions-root {
+    margin-top: auto;
+}
